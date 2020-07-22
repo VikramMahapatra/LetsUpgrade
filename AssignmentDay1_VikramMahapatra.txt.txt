@@ -1,0 +1,7 @@
+1) What is Python?
+Python is a general purpose programming language which can be used for variety of work like web developmemt, mobile dev, data analysis, big data processing and many more. Python is interperter language which suppors OO programming and you can be used for scripting.
+It is beginner frinedly due to its easy to code and english like statements
+
+2)What are Code Environments? types?
+An evironemnt which could be IDE or Command shell, which provide platform to run your code and produce output. 
+Diiferent type of Python Code env: Jupyter Notebook, PyCharm, Visual Studio Code, Notepad py file, command prompt with Python installed and many more.
